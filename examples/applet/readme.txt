@@ -1,1 +1,0 @@
-The file lib/plugin.zip is only to build applet as a standalone project in Eclipse (and it's only a stub). For deployment the nextscape.javascript.* classes are part of the standard Java installation and should not be rolled into the final jar.
