@@ -1,0 +1,17 @@
+Title JavascriptJoystick
+Version 0.5.1
+Description Browser plugin for OS X to allow JavaScript access to joysticks and other game devices
+DefaultLocation /Library/Internet Plug-Ins
+DeleteWarning 
+
+### Package Flags
+
+NeedsAuthorization NO
+Required NO
+Relocatable NO
+RequiresReboot NO
+UseUserMask NO
+OverwritePermissions NO
+AllowBackRev NO
+RootVolumeOnly NO
+OnlyUpdateInstalledLanguages NO
